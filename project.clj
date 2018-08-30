@@ -1,4 +1,4 @@
-(defproject parkside-securities/kafka-avro-confluent "0.9.1"
+(defproject parkside-securities/kafka-avro-confluent "0.9.2-SNAPSHOT"
 
   :description "An Avro Kafka De/Serializer lib that works with Confluent's Schema Registry"
 
