@@ -5,11 +5,7 @@ Kafka De/Serializer using avro and Confluent's Schema Registry
 
 ## Usage
 
-[![Clojars Project](https://img.shields.io/clojars/v/ovotech/kafka-avro-confluent.svg)](https://clojars.org/ovotech/kafka-avro-confluent)
-```
-[ovotech/kafka-avro-confluent "0.8.0"]
-```
-
+[![Clojars Project](https://img.shields.io/clojars/v/parkside-securities/kafka-avro-confluent.svg)](https://clojars.org/parkside-securities/kafka-avro-confluent)
 
 ```clojure
 (ns kafka-avro-confluent.readme-test
